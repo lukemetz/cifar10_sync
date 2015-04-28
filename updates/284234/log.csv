@@ -1,0 +1,5 @@
+,time_initialization,test_cost,test_accur,epoch_interrupt_received,batch_interrupt_received,training_finished
+0,3.933012008666992,10.696917533874512,0.036095727848101264,,,
+238,,,,True,,
+246,,,,,True,
+247,,,,,,True
