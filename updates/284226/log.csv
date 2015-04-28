@@ -1,0 +1,3 @@
+,time_initialization,test_cost,test_accur,train_cost,time_train_this_epoch,train_accur,time_train_total,training_finished,time_read_data_this_epoch,time_read_data_total,training_finish_requested
+0,3.802096128463745,30.58176612854004,0.06329113924050633,,,,,,,,
+391,,1.4397085905075073,0.4864517405063291,2.49653959274292,34.50152659416199,0.3678908247472075,34.50152659416199,True,1.4604120254516602,1.4604120254516602,True
